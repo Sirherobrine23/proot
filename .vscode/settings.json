@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.dsc": "ini",
+    "*.gyp": "python",
+    "*.tmpl": "gohtml",
+    "typeinfo": "c"
+  }
+}
